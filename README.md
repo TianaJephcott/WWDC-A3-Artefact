@@ -3,7 +3,7 @@
 * [Introduction](#Introduction)
 * [Project Status](#Project-Status)
 * [Technologies](#Technologies)
-* [Set Up](#Set-Up)
+* [Set Up / Launch](#Set-Up-Launch)
 * [Sources](#Sources)
 ## Introduction
 This project is a piece of generative art, it is a space themed scene and includes elements of interactivity and randomisation to allow users to have an interesting and unique experience each time the code is run. It was made using the open-source sketchbook software Processing and the high-level coding language Python.
@@ -12,7 +12,7 @@ This project is complete and working
 ## Technologies
 * Processing 3
 * Python 3.6
-## Set Up
+## Set Up / Launch
 To run this project follow the steps below:
 1. Download the processing application to your computer at processing.org 
 2. Once downloaded open the sketchbook
