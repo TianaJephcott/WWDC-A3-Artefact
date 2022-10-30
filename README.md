@@ -1,5 +1,14 @@
 # WWDC-A3-Artefact
-## Steps to run artefact
+## Table of Contents
+* [Introduction](#Introduction)
+* [Project Status](#Project-Status)
+* [Technologies](#Technologies)
+* [Set Up](#Set-Up)
+## Introduction
+## Project Status
+## Technology
+## Set Up
+To run this project follow the steps below:
 1. Download the processing application to your computer at processing.org 
 2. Once downloaded open the sketchbook
 3. The sketchbook will automatically open in Java, this needs to be changed to Pyhthon
