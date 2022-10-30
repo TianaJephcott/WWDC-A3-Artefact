@@ -1,4 +1,4 @@
-# WWDC-A3-Artefact
+# Lost in Space - Generative Art
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Project Status](#Project-Status)
@@ -6,7 +6,7 @@
 * [Set Up](#Set-Up)
 * [Sources](#Sources)
 ## Introduction
-This project is a piece of generative art made using the open-source sketchbook software Processing and the high-level coding language Python.
+This project is a piece of generative art, it is a space themed scene and includes elements of interactivity and randomisation to allow users to have an interesting and unique experience each time the code is run. It was made using the open-source sketchbook software Processing and the high-level coding language Python.
 ## Project Status
 This project is complete and working
 ## Technologies
